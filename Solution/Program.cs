@@ -1,6 +1,6 @@
 ﻿Console.Clear();
 
-string[] arrayoriginal = new string[7] {"Hope", "1234", "777", "Bright future", "Yes", "Lucky", "Matilda"};
+string[] arrayoriginal = new string[5] { "Hope", "1234", "777", "Yes", "Matilda" };
 string[] arrayfinal = new string[arrayoriginal.Length];
 
 void ArrayFinalSolution(string[] arrayoriginal, string[] arrayfinal)
@@ -8,7 +8,7 @@ void ArrayFinalSolution(string[] arrayoriginal, string[] arrayfinal)
     int count = 0;
     for (int i = 0; i < arrayoriginal.Length; i++)
     {
-        if (arrayoriginal.Length <=3)
+        if (arrayoriginal[i].Length <= 3)
         {
             arrayfinal[count] = arrayoriginal[i];
             count++;
@@ -21,8 +21,9 @@ void PrintArray(string[] array)
     for (int i = 0; i < array.Length; i++)
     {
         Console.Write($"{array[i]}");
+        Console.WriteLine();
     }
-    Console.WriteLine();
+    
 }
 
 ArrayFinalSolution(arrayoriginal, arrayfinal);

@@ -1,0 +1,15 @@
+D:\Учеба\Git Project\Solution\bin\Debug\net6.0\Git Project.exe
+D:\Учеба\Git Project\Solution\bin\Debug\net6.0\Git Project.deps.json
+D:\Учеба\Git Project\Solution\bin\Debug\net6.0\Git Project.runtimeconfig.json
+D:\Учеба\Git Project\Solution\bin\Debug\net6.0\Git Project.dll
+D:\Учеба\Git Project\Solution\bin\Debug\net6.0\Git Project.pdb
+D:\Учеба\Git Project\Solution\obj\Debug\net6.0\Git Project.csproj.AssemblyReference.cache
+D:\Учеба\Git Project\Solution\obj\Debug\net6.0\Git Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Git Project\Solution\obj\Debug\net6.0\Git Project.AssemblyInfoInputs.cache
+D:\Учеба\Git Project\Solution\obj\Debug\net6.0\Git Project.AssemblyInfo.cs
+D:\Учеба\Git Project\Solution\obj\Debug\net6.0\Git Project.csproj.CoreCompileInputs.cache
+D:\Учеба\Git Project\Solution\obj\Debug\net6.0\Git Project.dll
+D:\Учеба\Git Project\Solution\obj\Debug\net6.0\refint\Git Project.dll
+D:\Учеба\Git Project\Solution\obj\Debug\net6.0\Git Project.pdb
+D:\Учеба\Git Project\Solution\obj\Debug\net6.0\Git Project.genruntimeconfig.cache
+D:\Учеба\Git Project\Solution\obj\Debug\net6.0\ref\Git Project.dll

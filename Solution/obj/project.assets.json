@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Учеба\\Git Project\\Git Project.csproj",
+      "projectUniqueName": "D:\\Учеба\\Git Project\\Solution\\Git Project.csproj",
       "projectName": "Git Project",
-      "projectPath": "D:\\Учеба\\Git Project\\Git Project.csproj",
+      "projectPath": "D:\\Учеба\\Git Project\\Solution\\Git Project.csproj",
       "packagesPath": "C:\\Users\\Blacktem\\.nuget\\packages\\",
-      "outputPath": "D:\\Учеба\\Git Project\\obj\\",
+      "outputPath": "D:\\Учеба\\Git Project\\Solution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Blacktem\\AppData\\Roaming\\NuGet\\NuGet.Config"
