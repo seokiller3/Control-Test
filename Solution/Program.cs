@@ -24,3 +24,6 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+
+ArrayFinalSolution(arrayoriginal, arrayfinal);
+PrintArray(arrayfinal);
